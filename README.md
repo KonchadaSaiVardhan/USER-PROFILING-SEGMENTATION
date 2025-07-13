@@ -1,4 +1,3 @@
-# USER-PROFILING-SEGMENTATION
 # 🧠 User Profiling and Segmentation using Machine Learning
 
 This project uses clustering techniques to segment users based on their demographics, online behavior, ad interactions, and interests using a dataset of 1000 users.
